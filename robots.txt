@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdosaadabdosaad084.github.io/my-personal-website/sitemap.xml
